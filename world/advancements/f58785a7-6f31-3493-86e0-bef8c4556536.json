@@ -9458,5 +9458,11 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2026-08-21 17:59:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
