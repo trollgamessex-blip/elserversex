@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2026-08-24 04:30:21 +0000",
       "minecraft:river": "2026-08-23 23:44:22 +0000",
       "minecraft:plains": "2026-08-23 23:25:39 +0000"
     },
@@ -104,9 +105,70 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2026-08-24 04:02:38 +0000",
       "minecraft:basalt_deltas": "2026-08-24 00:39:23 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-08-24 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2026-08-24 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2026-08-24 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2026-08-24 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-08-24 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2026-08-24 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-08-24 04:05:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-08-24 04:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-08-24 04:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-08-24 04:05:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4671
 }

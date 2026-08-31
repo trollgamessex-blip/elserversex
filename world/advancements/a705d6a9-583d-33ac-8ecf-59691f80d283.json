@@ -350,6 +350,7 @@
       "golden_carrot": "2026-06-17 03:38:58 +0000",
       "apple": "2026-04-27 04:22:12 +0000",
       "cooked_chicken": "2026-04-28 04:55:52 +0000",
+      "enchanted_golden_apple": "2026-08-30 03:28:43 +0000",
       "potato": "2026-04-30 18:19:11 +0000",
       "cooked_cod": "2026-05-08 23:00:29 +0000",
       "pumpkin_pie": "2026-04-27 04:08:18 +0000",
@@ -7332,7 +7333,8 @@
       "nova_structures:tavern_oak": "2026-05-24 16:31:05 +0000",
       "nova_structures:tavern_dark_oak": "2026-05-25 05:24:02 +0000",
       "nova_structures:tavern_spruce": "2026-05-25 05:02:08 +0000",
-      "nova_structures:tavern_snowy": "2026-06-04 05:27:32 +0000"
+      "nova_structures:tavern_snowy": "2026-06-04 05:27:32 +0000",
+      "nova_structures:tavern_desert": "2026-08-31 01:54:10 +0000"
     },
     "done": false
   },
@@ -10214,6 +10216,54 @@
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2026-08-20 05:04:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether_smithing": {
+    "criteria": {
+      "has_nether": "2026-08-24 05:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-31 00:30:37 +0000"
     },
     "done": true
   },
