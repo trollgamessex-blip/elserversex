@@ -39,7 +39,8 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2026-08-24 04:30:21 +0000",
       "minecraft:river": "2026-08-23 23:44:22 +0000",
-      "minecraft:plains": "2026-08-23 23:25:39 +0000"
+      "minecraft:plains": "2026-08-23 23:25:39 +0000",
+      "minecraft:warm_ocean": "2026-09-02 05:14:22 +0000"
     },
     "done": false
   },
