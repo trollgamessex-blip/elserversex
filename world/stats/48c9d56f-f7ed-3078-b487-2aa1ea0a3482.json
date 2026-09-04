@@ -1,31 +1,32 @@
 {
   "stats": {
-    "minecraft:custom": {
-      "hardcorerevival:knockouts": 5,
-      "minecraft:time_since_rest": 118269,
-      "minecraft:fall_one_cm": 1775,
-      "minecraft:total_world_time": 269812,
-      "minecraft:leave_game": 60,
-      "minecraft:damage_taken": 1430,
-      "hardcorerevival:times_rescued": 2,
-      "minecraft:play_time": 269812,
-      "minecraft:damage_absorbed": 3605,
-      "minecraft:deaths": 2,
-      "minecraft:time_since_death": 118269
-    },
     "minecraft:picked_up": {
       "minecraft:netherrack": 4,
       "minecraft:dirt": 2,
-      "minecraft:obsidian": 1,
-      "minecraft:leather_boots": 1,
-      "minecraft:baked_potato": 1,
+      "minecraft:glass": 2,
       "minecraft:leather_chestplate": 1,
       "minecraft:golden_helmet": 3,
       "minecraft:golden_chestplate": 1,
       "minecraft:bone": 7,
       "minecraft:arrow": 6,
       "minecraft:copper_leggings": 1,
-      "minecraft:rotten_flesh": 106
+      "minecraft:rotten_flesh": 106,
+      "minecraft:obsidian": 1,
+      "minecraft:leather_boots": 1,
+      "minecraft:baked_potato": 1
+    },
+    "minecraft:custom": {
+      "hardcorerevival:knockouts": 6,
+      "minecraft:time_since_rest": 1,
+      "minecraft:fall_one_cm": 1775,
+      "minecraft:total_world_time": 460862,
+      "minecraft:leave_game": 66,
+      "minecraft:damage_taken": 1650,
+      "hardcorerevival:times_rescued": 2,
+      "minecraft:play_time": 460862,
+      "minecraft:damage_absorbed": 3625,
+      "minecraft:deaths": 3,
+      "minecraft:time_since_death": 1
     }
   },
   "DataVersion": 4671
