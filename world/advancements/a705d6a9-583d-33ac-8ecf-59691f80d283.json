@@ -10267,5 +10267,65 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2026-09-05 15:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-09-05 15:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_shelf": {
+    "criteria": {
+      "has_stripped_crimson_stem": "2026-09-05 16:28:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
